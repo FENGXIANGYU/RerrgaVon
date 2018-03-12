@@ -1,4 +1,2 @@
 # RerrgaVon
-Vno-jekyll, 一个jekyll blog的主题
-Vno-jekyll, just another jekyll theme
-fork form yanshinian/vno-jekyll
+从哪里来，又往哪里去
